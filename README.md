@@ -20,8 +20,8 @@ Se ha creado una rama que se llama [*“minifier”*](https://github.com/Fpocovi
 En la rama principal ([*master*](https://github.com/Fpocovi/UT3-XML-Examen)) está todo el código escrito bien identado.
 
 En el directorio raíz (rama master) hay cuatro archivos:
-* [**howto.html**](https://github.com/Fpocovi/UT3-XML-Examen/tree/master/howtp.html): En esta página se explica como se debe realizar el examen y las diferentes tipos de preguntas.
+* [**howto.html**](https://github.com/Fpocovi/UT3-XML-Examen/tree/master/howto.html): En esta página se explica como se debe realizar el examen y las diferentes tipos de preguntas.
 * [**choice.html**](https://github.com/Fpocovi/UT3-XML-Examen/tree/master/choice.html): Aquí se puede elegir entre los exámenes disponibles(en esta versión solo 2)
 * [**examen.html**](https://github.com/Fpocovi/UT3-XML-Examen/tree/master/examen.html): Este es el primer examen en este caso de historia española.
-* [**examen2.html**](https://github.com/Fpocovi//tree/UT3-XML-Examen/master/examen2.html): Este es el segundo examen en este caso de geografía mundial.
+* [**examen2.html**](https://github.com/Fpocovi//tree/UT3-XML-Examen/tree/master/examen2.html): Este es el segundo examen en este caso de geografía mundial.
 ***
