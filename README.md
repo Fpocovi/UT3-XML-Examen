@@ -15,7 +15,7 @@ Se han creado un desplegable para poder seleccionar entre varios exámenes (en e
 Cuando se da a comprobar resultados, dichos resultados salen en rojo o en verde según si la respuesta es correcta o incorrecta. Así mismo también se cambia el color de la nota dependiendo de si esta aprobado o no.
 
 
-Se ha creado una rama que se llama [*“minifier”*](https://github.com/Fpocovi/UT3-XML-Examen/tree/minifier), en la cual hay todo el código escrito en formato minifier (todo en una sola línea).
+Se ha creado una rama que se llama [*“minifier”*](https://github.com/Fpocovi/UT3-XML-Examen/tree/minify), en la cual hay todo el código escrito en formato minifier (todo en una sola línea).
 
 En la rama principal ([*master*](https://github.com/Fpocovi/UT3-XML-Examen)) está todo el código escrito bien identado.
 
