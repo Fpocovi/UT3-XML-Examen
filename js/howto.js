@@ -1,0 +1,1 @@
+function nuevoexamen1(){var a=null;a=document.getElementById("nuevoexamen").selectedIndex,0==a?window.location.href="examen.html":window.location.href="examen2.html"}
