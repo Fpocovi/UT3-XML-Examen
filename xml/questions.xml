@@ -4,7 +4,7 @@
 
 <questions>
 
-   	<question id="UAP_HE1">
+   	<question id='UAP_HE1'>
 		<type>radio</type>
 		<title>1.- Selecciona los reyes españoles cronologicamente :</title>
 		<option>a) Felipe III, Carlos II, Isabel I, Luis I</option>
